@@ -1,2 +1,2 @@
 **ALX Project**
-ALX base repository for tasks
+ALX base repository for tasks management
